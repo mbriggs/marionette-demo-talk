@@ -1,0 +1,12 @@
+{
+  "name": "marionette-table-example",
+  "version": "0.0.1",
+  "description": "example for a marionette talk",
+  "author": "Matt Briggs",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "karma": "~0.10.1",
+    "karma-handlebars-preprocessor": "~0.1.2"
+  }
+}

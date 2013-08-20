@@ -2,8 +2,253 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d18722b-0aea-414f-baa4-1bfd5c748f08" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/airbnb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/public/fonts/aller-bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/docs/public/fonts/aller-bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/public/fonts/aller-bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/docs/public/fonts/aller-bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/public/fonts/aller-bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/docs/public/fonts/aller-bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/public/fonts/aller-light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/docs/public/fonts/aller-light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/public/fonts/aller-light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/docs/public/fonts/aller-light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/public/fonts/aller-light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/docs/public/fonts/aller-light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/artsy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/backbone-mobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/backbone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/docs/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/baroque.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/basecamp-calendar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/battlefield.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/bitbucket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/blossom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/cloudapp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/code-school.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/dc-workspace.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/examples/todos/destroy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/diaspora.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/disqus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/do.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/easel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/docs/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/public/fonts/fleurons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/public/fonts/fleurons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/public/fonts/fleurons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/flow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/foursquare.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/gilt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/public/images/grey_@2X.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/groupon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/hulu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/inkling.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/irccloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/jolicloud.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/khan-academy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/linkedin-mobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/menagerievet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/newsblur.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/public/fonts/novecento-bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/docs/public/fonts/novecento-bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/public/fonts/novecento-bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/docs/public/fonts/novecento-bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/public/fonts/novecento-bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/docs/public/fonts/novecento-bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/pandora.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/pitchfork.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/prose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/quartz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/rdio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/salon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/seatgeek.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/slavery-footprint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/soundcloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/spin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/stripe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/syllabus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/tilemill.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/todos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/trello.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/tzigla.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/docs/images/underscore.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/usa-today.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/walmart-mobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/images/wpcom-notifications.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone.stickit/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/jquery/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/simple-require/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone.stickit/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/jquery/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/.tm_properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone.stickit/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone.stickit/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone.stickit/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/jquery/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/simple-require/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone.stickit/test/addHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/addrem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/build/amd.core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/test/arrays.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/backbone-localstorage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/backbone-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/backbone-min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/public/javascripts/backbone.augment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/public/javascripts/backbone.babysitter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/backbone.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/backbone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone.stickit/test/vendor/backbone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/public/javascripts/backbone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/examples/backbone.localStorage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/backbone.localstorage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/lib/backbone.marionette.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/lib/core/backbone.marionette.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/lib/core/amd/backbone.marionette.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/lib/backbone.marionette.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/lib/core/backbone.marionette.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/lib/backbone.marionette.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/lib/core/backbone.marionette.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/lib/core/amd/backbone.marionette.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone.stickit/backbone.stickit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/public/javascripts/backbone.wreqr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone.stickit/test/bindData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/jquery/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/test/chaining.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/test/collection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/test/collections.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/jquery/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/jquery/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/demo.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/docco.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/docs/docco.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/test/environment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/test/events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/test/functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/getdeps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone.stickit/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/examples/todos/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/jquery/jquery-migrate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/jquery/jquery-migrate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/test/vendor/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/jquery/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/public/javascripts/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/test/vendor/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/js/jquery.lazyload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/jquery/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/jquery/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/jsl.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/test/vendor/jslitmus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/test/vendor/json2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/public/javascripts/json2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libpeerconnection.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/marionette.application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/marionette.approuter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/marionette.bindEntityEvents.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/marionette.callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/marionette.collectionview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/marionette.compositeview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/marionette.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/build/marionette.core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/marionette.domRefresh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/marionette.helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/marionette.itemview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/marionette.layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/marionette.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/marionette.region.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/marionette.regionManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/marionette.renderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/marionette.templatecache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/marionette.triggermethod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/src/marionette.view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/test/model.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/test/model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone.stickit/test/modelBinding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/test/noconflict.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/public/stylesheets/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/docs/public/stylesheets/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/test/objects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/order.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/orders_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone.stickit/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/jquery/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone.stickit/test/vendor/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/test/vendor/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/test/vendor/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone.stickit/test/vendor/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/test/vendor/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/test/vendor/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/test/router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/test/vendor/runner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/test/vendor/runner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/simple-require/simple-require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/test/speed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/test/sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone.stickit/test/testScaffolding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/examples/todos/todos.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/docs/todos.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/examples/todos/todos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/underscore-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/underscore-min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/docs/underscore.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone.stickit/test/vendor/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/test/vendor/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/public/javascripts/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/marionette/upgradeGuide.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/user.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/underscore/test/utility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone/test/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone.stickit/test/vendor/zepto-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/components/backbone.stickit/test/vendor/zepto.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/models/.keep" afterPath="$PROJECT_DIR$/app/assets/javascripts/libs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/models/concerns/.keep" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/marionette-table-example.iml" afterPath="$PROJECT_DIR$/.idea/marionette-table-example.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/karma.conf.js" afterPath="$PROJECT_DIR$/karma.conf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="marionette-table-example.iws" />
@@ -27,22 +272,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="rake" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bin/rake">
+      <file leaf-file-name="application.css.sass" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="200">
+            <state line="1" column="24" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="140">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="karma.conf.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/karma.conf.js">
+      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="38" selection-start="822" selection-end="822" vertical-scroll-proportion="0.3642384" vertical-offset="665" max-vertical-offset="1420">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="10" column="12" selection-start="213" selection-end="213" vertical-scroll-proportion="-7.142857" vertical-offset="0" max-vertical-offset="400">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="3" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="17" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/home/demo.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="120">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="140">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="31" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="140">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/order.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="32" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="140">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spec_helper.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="960">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="orders_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/orders_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="46" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="140">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -66,15 +381,27 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/config/application.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/libs.js" />
+        <option value="$PROJECT_DIR$/karma.conf.js" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css.sass" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/demo_controller.rb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/orders_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/app/models/order.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="78" />
+    <option name="x" value="76" />
     <option name="y" value="22" />
-    <option name="width" value="1362" />
+    <option name="width" value="1842" />
     <option name="height" value="878" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -84,7 +411,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -103,7 +430,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -132,22 +458,73 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marionette-table-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marionette-table-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marionette-table-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marionette-table-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marionette-table-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marionette-table-example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Rails.Development: marionette-table-example">
     <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
@@ -231,6 +608,26 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
       <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
       <module name="" />
@@ -256,108 +653,6 @@
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
-      <method />
-    </configuration>
-    <configuration default="false" name="test: marionette-table-example" type="RakeRunConfigurationType" factoryName="Rake">
-      <module name="marionette-table-example" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="RAILS_ENV" value="test" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="spec: marionette-table-example" type="RakeRunConfigurationType" factoryName="Rake">
-      <module name="marionette-table-example" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Production: marionette-table-example" type="RailsRunConfigurationType" factoryName="Rails">
-      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
-      <module name="marionette-table-example" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Development: marionette-table-example" type="RailsRunConfigurationType" factoryName="Rails">
-      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
-      <module name="marionette-table-example" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
       <method />
     </configuration>
     <list size="4">
@@ -394,28 +689,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="78" y="22" width="1362" height="878" extended-state="6" />
-    <editor active="true" />
+    <frame x="76" y="22" width="1842" height="878" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32951653" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.67048347" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.7244898" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908162" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908162" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25278395" sideWeight="0.2755102" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -479,20 +774,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/initializers/wrap_parameters.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="7" selection-start="308" selection-end="308" vertical-scroll-proportion="0.18817204" vertical-offset="0" max-vertical-offset="744">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="66" selection-end="66" vertical-scroll-proportion="0.10752688" vertical-offset="0" max-vertical-offset="744">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="26" selection-start="317" selection-end="317" vertical-scroll-proportion="0.2642008" vertical-offset="0" max-vertical-offset="757">
@@ -500,19 +781,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/rake">
+    <entry file="file://$PROJECT_DIR$/vendor/components/marionette/lib/backbone.marionette.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="200">
+        <state line="2343" column="0" selection-start="68032" selection-end="68032" vertical-scroll-proportion="0.2767733" vertical-offset="46661" max-vertical-offset="47380">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="16" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="160">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/libs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="46" selection-start="0" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/karma.conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="38" selection-start="822" selection-end="822" vertical-scroll-proportion="0.3642384" vertical-offset="665" max-vertical-offset="1420">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state line="33" column="7" selection-start="926" selection-end="926" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1040">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="21" selection-start="346" selection-end="346" vertical-scroll-proportion="0.3178808" vertical-offset="0" max-vertical-offset="755">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="24" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="140">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="12" selection-start="213" selection-end="213" vertical-scroll-proportion="-7.142857" vertical-offset="0" max-vertical-offset="400">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="3" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="17" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/demo.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/orders_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="46" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="140">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="31" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/order.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="32" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="960">
+          <folding />
         </state>
       </provider>
     </entry>

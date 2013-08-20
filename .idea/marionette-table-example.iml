@@ -118,55 +118,46 @@
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="rbenv: 2.0.0" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="actionmailer (v4.0.0, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="actionpack (v4.0.0, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="active_model_serializers (v0.8.1, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="activemodel (v4.0.0, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="activerecord (v4.0.0, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="activerecord-deprecated_finders (v1.0.3, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="activesupport (v4.0.0, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="anjlab-bootstrap-rails (v3.0.0.rc2@776c4d, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="arel (v4.0.0, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="atomic (v1.1.13, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="better_errors (v0.9.0, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="builder (v3.1.4, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.3.1, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="coderay (v1.0.9, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="daemons (v1.1.9, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.2.4, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="eventmachine (v1.0.3, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="font-awesome-rails (v3.2.1.3, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="hike (v1.2.3, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="i18n (v0.6.5, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="mail (v2.5.4, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.24, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="minitest (v4.7.5, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.7.9, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="polyglot (v0.3.3, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="quiet_assets (v1.0.2, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rack (v1.5.2, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.2, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rails (v4.0.0, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="railties (v4.0.0, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rake (v10.1.0, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rspec-core (v2.14.5, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rspec-expectations (v2.14.2, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rspec-mocks (v2.14.3, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rspec-rails (v2.14.0, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sass (v3.2.10, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sass-rails (v4.0.0, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.10.0, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sprockets-rails (v2.0.0, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.8, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="thin (v1.5.1, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="thor (v0.18.1, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.1.2, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="tilt (v1.4.1, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="treetop (v1.4.15, rbenv: 1.9.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.37, rbenv: 1.9.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionmailer (v4.0.0, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionpack (v4.0.0, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="active_model_serializers (v0.8.1, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activemodel (v4.0.0, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activerecord (v4.0.0, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activerecord-deprecated_finders (v1.0.3, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activesupport (v4.0.0, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="arel (v4.0.0, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="better_errors (v0.9.0, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="builder (v3.1.4, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.3.1, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coderay (v1.0.9, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="daemons (v1.1.9, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.2.4, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="eventmachine (v1.0.3, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="execjs (v1.4.0, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="handlebars_assets (v0.14.1, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="hike (v1.2.3, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mail (v2.5.4, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="minitest (v4.7.5, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="polyglot (v0.3.3, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="quiet_assets (v1.0.2, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack (v1.5.2, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.2, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails (v4.0.0, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="railties (v4.0.0, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v10.1.0, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-rails (v2.14.0, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sass (v3.2.10, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sass-rails (v4.0.0, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.10.0, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sprockets-rails (v2.0.0, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thin (v1.5.1, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thor (v0.18.1, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.1.2, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tilt (v1.4.1, rbenv: 2.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.37, rbenv: 2.0.0) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />

@@ -1,0 +1,15 @@
+{
+  "name": "simple-require",
+  "homepage": "https://github.com/mbriggs/simple-require",
+  "version": "0.1.0",
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.0",
+    "commit": "ee57f9fd291055cb6e5a8189306ad11378b603ef"
+  },
+  "_source": "git://github.com/mbriggs/simple-require.git",
+  "_target": "~0.1.0",
+  "_originalSource": "simple-require",
+  "_direct": true
+}

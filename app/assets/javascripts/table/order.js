@@ -6,15 +6,21 @@ define("table/order", function(module) {
     mode: 'read-only',
 
     events: {
-      'click .action.edit': 'edit'
+      'click .edit': 'edit',
+      'click .save': 'save',
+      'click .cancel': 'cancel',
+      'click .destroy': 'destroyOrder'
     },
 
     editBindings: {
       '.order-userName select': {
         observe: 'user_id',
-        collection: 'this.users',
-        labelPath: 'name',
-        valuePath: 'id'
+        selectOptions: {
+          defaultOption: { label: 'please choose a user...', key: null },
+          collection: 'this.users',
+          labelPath: 'name',
+          valuePath: 'id'
+        }
       },
 
       '.order-total input': 'total',
@@ -51,8 +57,16 @@ define("table/order", function(module) {
 
     save: function(){
       this.model.save();
+      this.cancel();
+    },
+
+    cancel: function(){
       this.mode = 'read-only';
       this.render();
+    },
+
+    destroyOrder: function(){
+      this.model.destroy();
     },
 
     isReadOnly: function(){

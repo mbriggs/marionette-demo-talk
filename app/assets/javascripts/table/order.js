@@ -2,7 +2,7 @@ define("table/order", function(module) {
   var Row = Marionette.ItemView.extend({
     tagName: 'tr',
     template: 'order',
-    editTemplate: 'edit-order',
+    editTemplate: 'order-form',
     mode: 'read-only',
 
     events: {
@@ -12,7 +12,7 @@ define("table/order", function(module) {
     editBindings: {
       '.order-userName select': {
         observe: 'user_id',
-        collection: 'users',
+        collection: 'this.users',
         labelPath: 'name',
         valuePath: 'id'
       },

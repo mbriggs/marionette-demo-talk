@@ -26,6 +26,7 @@ module.exports = function(config) {
       'app/assets/javascripts/marionette.config.js',
       'app/assets/javascripts/templates/**/*.jst.hbs',
       'app/assets/javascripts/table/**/*.js',
+      'app/assets/javascripts/models/**/*.js',
 
 
       // specs

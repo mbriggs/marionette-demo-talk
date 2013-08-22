@@ -13,6 +13,12 @@ define("MarionetteDemo", function(module) {
 
   var App = new Marionette.Application();
 
+  $.ajaxSetup({
+    headers: {
+      'X-CSRF-Token': $('meta[name="csrf-token"]').attr('content')
+    }
+  });
+
   App.addRegions({
     demoRegion: '#demo-region'
   });

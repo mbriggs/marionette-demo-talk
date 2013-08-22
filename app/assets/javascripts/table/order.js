@@ -2,7 +2,7 @@ define("table/order", function(module) {
   var Row = Marionette.ItemView.extend({
     tagName: 'tr',
     template: 'order',
-    editTemplate: 'order-form',
+    editTemplate: 'edit-order',
     mode: 'read-only',
 
     events: {

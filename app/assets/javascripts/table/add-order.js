@@ -4,7 +4,7 @@ define("table/add-order", function(module) {
   var Add = Marionette.ItemView.extend({
     tagName: 'tr',
     className: 'add-order',
-    template: 'order-form',
+    template: 'add-order',
 
     events: {
       'click .save': 'save'
@@ -14,6 +14,7 @@ define("table/add-order", function(module) {
       '.order-userName select': {
         observe: 'user_id',
         selectOptions: {
+          defaultOption: { label: 'please choose a user...', key: null },
           collection: 'this.users',
           labelPath: 'name',
           valuePath: 'id'
@@ -33,7 +34,7 @@ define("table/add-order", function(module) {
 
     save: function(){
       this.model.save();
-      this.orders.add(model);
+      this.orders.add(this.model);
 
       this.unstickit();
       this.model = new Order();

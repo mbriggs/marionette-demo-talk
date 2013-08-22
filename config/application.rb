@@ -9,5 +9,6 @@ Bundler.require(:default, Rails.env)
 module MarionetteTableExample
   class Application < Rails::Application
     config.assets.paths << Rails.root.join('vendor', 'components')
+    config.active_record.schema_format = :sql
   end
 end

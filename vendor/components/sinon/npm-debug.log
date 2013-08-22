@@ -1,0 +1,245 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/Cellar/node/0.8.14/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'publish' ]
+2 info using npm@1.1.65
+3 info using node@v0.8.14
+4 verbose publish [ '.' ]
+5 verbose read json /Users/matt/src/marionette-table-example/vendor/components/sinon/package.json
+6 verbose cache add [ '.', null ]
+7 silly cache add name=undefined spec="." args=[".",null]
+8 verbose parsed url { pathname: '.', path: '.', href: '.' }
+9 silly lockFile 3a52ce78- .
+10 verbose lock . /Users/matt/.npm/3a52ce78-.lock
+11 verbose read json package.json
+12 verbose tar pack [ '/var/folders/vy/9qlkt1817_91njq7bzdfm19r0000gn/T/npm-49515/1377119778351-0.38574305758811533/tmp.tgz',
+12 verbose tar pack   '.' ]
+13 verbose tarball /var/folders/vy/9qlkt1817_91njq7bzdfm19r0000gn/T/npm-49515/1377119778351-0.38574305758811533/tmp.tgz
+14 verbose folder .
+15 info prepublish sinon@1.7.3
+16 verbose unsafe-perm in lifecycle true
+17 silly exec sh "-c" "./build"
+18 silly sh,-c,./build,. spawning
+19 silly lockFile 85eba48b-8351-0-38574305758811533-tmp-tgz /var/folders/vy/9qlkt1817_91njq7bzdfm19r0000gn/T/npm-49515/1377119778351-0.38574305758811533/tmp.tgz
+20 verbose lock /var/folders/vy/9qlkt1817_91njq7bzdfm19r0000gn/T/npm-49515/1377119778351-0.38574305758811533/tmp.tgz /Users/matt/.npm/85eba48b-8351-0-38574305758811533-tmp-tgz.lock
+21 silly lockFile 85eba48b-8351-0-38574305758811533-tmp-tgz /var/folders/vy/9qlkt1817_91njq7bzdfm19r0000gn/T/npm-49515/1377119778351-0.38574305758811533/tmp.tgz
+22 verbose tar unpack /var/folders/vy/9qlkt1817_91njq7bzdfm19r0000gn/T/npm-49515/1377119778351-0.38574305758811533/tmp.tgz
+23 silly lockFile 6c3ccfe9-8351-0-38574305758811533-package /var/folders/vy/9qlkt1817_91njq7bzdfm19r0000gn/T/npm-49515/1377119778351-0.38574305758811533/package
+24 verbose lock /var/folders/vy/9qlkt1817_91njq7bzdfm19r0000gn/T/npm-49515/1377119778351-0.38574305758811533/package /Users/matt/.npm/6c3ccfe9-8351-0-38574305758811533-package.lock
+25 silly gunzTarPerm modes [ '755', '644' ]
+26 silly gunzTarPerm extractEntry package.json
+27 silly gunzTarPerm modified mode [ 'package.json', 436, 420 ]
+28 silly gunzTarPerm extractEntry README.md
+29 silly gunzTarPerm modified mode [ 'README.md', 436, 420 ]
+30 silly gunzTarPerm extractEntry LICENSE
+31 silly gunzTarPerm modified mode [ 'LICENSE', 436, 420 ]
+32 silly gunzTarPerm extractEntry .bower.json
+33 silly gunzTarPerm extractEntry lib/sinon.js
+34 silly gunzTarPerm modified mode [ 'lib/sinon.js', 436, 420 ]
+35 silly gunzTarPerm extractEntry lib/sinon/assert.js
+36 silly gunzTarPerm modified mode [ 'lib/sinon/assert.js', 436, 420 ]
+37 silly gunzTarPerm extractEntry lib/sinon/collection.js
+38 silly gunzTarPerm modified mode [ 'lib/sinon/collection.js', 436, 420 ]
+39 silly gunzTarPerm extractEntry lib/sinon/match.js
+40 silly gunzTarPerm modified mode [ 'lib/sinon/match.js', 436, 420 ]
+41 silly gunzTarPerm extractEntry lib/sinon/mock.js
+42 silly gunzTarPerm modified mode [ 'lib/sinon/mock.js', 436, 420 ]
+43 silly gunzTarPerm extractEntry lib/sinon/call.js
+44 silly gunzTarPerm modified mode [ 'lib/sinon/call.js', 436, 420 ]
+45 silly gunzTarPerm extractEntry lib/sinon/spy.js
+46 silly gunzTarPerm modified mode [ 'lib/sinon/spy.js', 436, 420 ]
+47 silly gunzTarPerm extractEntry lib/sinon/stub.js
+48 silly gunzTarPerm modified mode [ 'lib/sinon/stub.js', 436, 420 ]
+49 silly gunzTarPerm extractEntry lib/sinon/test.js
+50 silly gunzTarPerm modified mode [ 'lib/sinon/test.js', 436, 420 ]
+51 silly gunzTarPerm extractEntry lib/sinon/test_case.js
+52 silly gunzTarPerm modified mode [ 'lib/sinon/test_case.js', 436, 420 ]
+53 silly gunzTarPerm extractEntry lib/sinon/sandbox.js
+54 silly gunzTarPerm modified mode [ 'lib/sinon/sandbox.js', 436, 420 ]
+55 silly gunzTarPerm extractEntry lib/sinon/util/event.js
+56 silly gunzTarPerm modified mode [ 'lib/sinon/util/event.js', 436, 420 ]
+57 silly gunzTarPerm extractEntry lib/sinon/util/fake_server.js
+58 silly gunzTarPerm modified mode [ 'lib/sinon/util/fake_server.js', 436, 420 ]
+59 silly gunzTarPerm extractEntry lib/sinon/util/fake_server_with_clock.js
+60 silly gunzTarPerm modified mode [ 'lib/sinon/util/fake_server_with_clock.js', 436, 420 ]
+61 silly gunzTarPerm extractEntry lib/sinon/util/fake_timers.js
+62 silly gunzTarPerm modified mode [ 'lib/sinon/util/fake_timers.js', 436, 420 ]
+63 silly gunzTarPerm extractEntry lib/sinon/util/fake_xml_http_request.js
+64 silly gunzTarPerm modified mode [ 'lib/sinon/util/fake_xml_http_request.js', 436, 420 ]
+65 silly gunzTarPerm extractEntry lib/sinon/util/timers_ie.js
+66 silly gunzTarPerm modified mode [ 'lib/sinon/util/timers_ie.js', 436, 420 ]
+67 silly gunzTarPerm extractEntry lib/sinon/util/xhr_ie.js
+68 silly gunzTarPerm modified mode [ 'lib/sinon/util/xhr_ie.js', 436, 420 ]
+69 silly gunzTarPerm extractEntry pkg/sinon-1.7.3.js
+70 silly gunzTarPerm extractEntry pkg/sinon-ie-1.7.3.js
+71 silly gunzTarPerm extractEntry pkg/sinon-ie.js
+72 silly gunzTarPerm extractEntry pkg/sinon-server-1.7.3.js
+73 silly gunzTarPerm extractEntry pkg/sinon-timers-1.7.3.js
+74 silly gunzTarPerm extractEntry pkg/sinon-timers-ie-1.7.3.js
+75 silly gunzTarPerm extractEntry pkg/sinon.js
+76 silly gunzTarPerm extractEntry test/runner.js
+77 silly gunzTarPerm modified mode [ 'test/runner.js', 436, 420 ]
+78 silly gunzTarPerm extractEntry test/sinon_test.js
+79 silly gunzTarPerm modified mode [ 'test/sinon_test.js', 436, 420 ]
+80 silly gunzTarPerm extractEntry test/node/run.js
+81 silly gunzTarPerm modified mode [ 'test/node/run.js', 436, 420 ]
+82 silly gunzTarPerm extractEntry test/resources/xhr_target.txt
+83 silly gunzTarPerm modified mode [ 'test/resources/xhr_target.txt', 436, 420 ]
+84 silly gunzTarPerm extractEntry test/rhino/env.rhino.1.2.js
+85 silly gunzTarPerm modified mode [ 'test/rhino/env.rhino.1.2.js', 436, 420 ]
+86 silly gunzTarPerm extractEntry test/rhino/run.js
+87 silly gunzTarPerm modified mode [ 'test/rhino/run.js', 436, 420 ]
+88 silly gunzTarPerm extractEntry test/sinon/assert_test.js
+89 silly gunzTarPerm modified mode [ 'test/sinon/assert_test.js', 436, 420 ]
+90 silly gunzTarPerm extractEntry test/sinon/collection_test.js
+91 silly gunzTarPerm modified mode [ 'test/sinon/collection_test.js', 436, 420 ]
+92 silly gunzTarPerm extractEntry test/sinon/match_test.js
+93 silly gunzTarPerm modified mode [ 'test/sinon/match_test.js', 436, 420 ]
+94 silly gunzTarPerm extractEntry test/sinon/mock_test.js
+95 silly gunzTarPerm modified mode [ 'test/sinon/mock_test.js', 436, 420 ]
+96 silly gunzTarPerm extractEntry test/sinon/call_test.js
+97 silly gunzTarPerm modified mode [ 'test/sinon/call_test.js', 436, 420 ]
+98 silly gunzTarPerm extractEntry test/sinon/spy_test.js
+99 silly gunzTarPerm modified mode [ 'test/sinon/spy_test.js', 436, 420 ]
+100 silly gunzTarPerm extractEntry test/sinon/stub_test.js
+101 silly gunzTarPerm modified mode [ 'test/sinon/stub_test.js', 436, 420 ]
+102 silly gunzTarPerm extractEntry test/sinon/test_case_test.js
+103 silly gunzTarPerm modified mode [ 'test/sinon/test_case_test.js', 436, 420 ]
+104 silly gunzTarPerm extractEntry test/sinon/test_test.js
+105 silly gunzTarPerm modified mode [ 'test/sinon/test_test.js', 436, 420 ]
+106 silly gunzTarPerm extractEntry test/sinon/sandbox_test.js
+107 silly gunzTarPerm modified mode [ 'test/sinon/sandbox_test.js', 436, 420 ]
+108 silly gunzTarPerm extractEntry test/sinon/util/event_test.js
+109 silly gunzTarPerm modified mode [ 'test/sinon/util/event_test.js', 436, 420 ]
+110 silly gunzTarPerm extractEntry test/sinon/util/fake_server_test.js
+111 silly gunzTarPerm modified mode [ 'test/sinon/util/fake_server_test.js', 436, 420 ]
+112 silly gunzTarPerm extractEntry test/sinon/util/fake_server_with_clock_test.js
+113 silly gunzTarPerm modified mode [ 'test/sinon/util/fake_server_with_clock_test.js', 436, 420 ]
+114 silly gunzTarPerm extractEntry test/sinon/util/fake_timers_test.js
+115 silly gunzTarPerm modified mode [ 'test/sinon/util/fake_timers_test.js', 436, 420 ]
+116 silly gunzTarPerm extractEntry test/sinon/util/fake_xml_http_request_test.js
+117 silly gunzTarPerm modified mode [ 'test/sinon/util/fake_xml_http_request_test.js', 436, 420 ]
+118 silly gunzTarPerm extractEntry test/sinon-dist.html
+119 silly gunzTarPerm modified mode [ 'test/sinon-dist.html', 436, 420 ]
+120 silly gunzTarPerm extractEntry test/sinon.html
+121 silly gunzTarPerm modified mode [ 'test/sinon.html', 436, 420 ]
+122 verbose read json /var/folders/vy/9qlkt1817_91njq7bzdfm19r0000gn/T/npm-49515/1377119778351-0.38574305758811533/package/package.json
+123 silly lockFile 6c3ccfe9-8351-0-38574305758811533-package /var/folders/vy/9qlkt1817_91njq7bzdfm19r0000gn/T/npm-49515/1377119778351-0.38574305758811533/package
+124 verbose from cache /var/folders/vy/9qlkt1817_91njq7bzdfm19r0000gn/T/npm-49515/1377119778351-0.38574305758811533/package/package.json
+125 verbose tar pack [ '/Users/matt/.npm/sinon/1.7.3/package.tgz',
+125 verbose tar pack   '/var/folders/vy/9qlkt1817_91njq7bzdfm19r0000gn/T/npm-49515/1377119778351-0.38574305758811533/package' ]
+126 verbose tarball /Users/matt/.npm/sinon/1.7.3/package.tgz
+127 verbose folder /var/folders/vy/9qlkt1817_91njq7bzdfm19r0000gn/T/npm-49515/1377119778351-0.38574305758811533/package
+128 silly lockFile 5f15b800-matt-npm-sinon-1-7-3-package-tgz /Users/matt/.npm/sinon/1.7.3/package.tgz
+129 verbose lock /Users/matt/.npm/sinon/1.7.3/package.tgz /Users/matt/.npm/5f15b800-matt-npm-sinon-1-7-3-package-tgz.lock
+130 silly lockFile 5f15b800-matt-npm-sinon-1-7-3-package-tgz /Users/matt/.npm/sinon/1.7.3/package.tgz
+131 silly lockFile 12bab2a8-ers-matt-npm-sinon-1-7-3-package /Users/matt/.npm/sinon/1.7.3/package
+132 verbose lock /Users/matt/.npm/sinon/1.7.3/package /Users/matt/.npm/12bab2a8-ers-matt-npm-sinon-1-7-3-package.lock
+133 silly lockFile 12bab2a8-ers-matt-npm-sinon-1-7-3-package /Users/matt/.npm/sinon/1.7.3/package
+134 verbose tar unpack /Users/matt/.npm/sinon/1.7.3/package.tgz
+135 silly lockFile 12bab2a8-ers-matt-npm-sinon-1-7-3-package /Users/matt/.npm/sinon/1.7.3/package
+136 verbose lock /Users/matt/.npm/sinon/1.7.3/package /Users/matt/.npm/12bab2a8-ers-matt-npm-sinon-1-7-3-package.lock
+137 silly gunzTarPerm modes [ '755', '644' ]
+138 silly gunzTarPerm extractEntry package.json
+139 silly gunzTarPerm extractEntry README.md
+140 silly gunzTarPerm extractEntry LICENSE
+141 silly gunzTarPerm extractEntry .bower.json
+142 silly gunzTarPerm extractEntry lib/sinon.js
+143 silly gunzTarPerm extractEntry lib/sinon/assert.js
+144 silly gunzTarPerm extractEntry lib/sinon/collection.js
+145 silly gunzTarPerm extractEntry lib/sinon/match.js
+146 silly gunzTarPerm extractEntry lib/sinon/mock.js
+147 silly gunzTarPerm extractEntry lib/sinon/call.js
+148 silly gunzTarPerm extractEntry lib/sinon/spy.js
+149 silly gunzTarPerm extractEntry lib/sinon/stub.js
+150 silly gunzTarPerm extractEntry lib/sinon/test.js
+151 silly gunzTarPerm extractEntry lib/sinon/test_case.js
+152 silly gunzTarPerm extractEntry lib/sinon/sandbox.js
+153 silly gunzTarPerm extractEntry lib/sinon/util/event.js
+154 silly gunzTarPerm extractEntry lib/sinon/util/fake_server.js
+155 silly gunzTarPerm extractEntry lib/sinon/util/fake_server_with_clock.js
+156 silly gunzTarPerm extractEntry lib/sinon/util/fake_timers.js
+157 silly gunzTarPerm extractEntry lib/sinon/util/fake_xml_http_request.js
+158 silly gunzTarPerm extractEntry lib/sinon/util/timers_ie.js
+159 silly gunzTarPerm extractEntry lib/sinon/util/xhr_ie.js
+160 silly gunzTarPerm extractEntry pkg/sinon-1.7.3.js
+161 silly gunzTarPerm extractEntry pkg/sinon-ie-1.7.3.js
+162 silly gunzTarPerm extractEntry pkg/sinon-ie.js
+163 silly gunzTarPerm extractEntry pkg/sinon-server-1.7.3.js
+164 silly gunzTarPerm extractEntry pkg/sinon-timers-1.7.3.js
+165 silly gunzTarPerm extractEntry pkg/sinon-timers-ie-1.7.3.js
+166 silly gunzTarPerm extractEntry pkg/sinon.js
+167 silly gunzTarPerm extractEntry test/runner.js
+168 silly gunzTarPerm extractEntry test/sinon_test.js
+169 silly gunzTarPerm extractEntry test/node/run.js
+170 silly gunzTarPerm extractEntry test/resources/xhr_target.txt
+171 silly gunzTarPerm extractEntry test/rhino/env.rhino.1.2.js
+172 silly gunzTarPerm extractEntry test/rhino/run.js
+173 silly gunzTarPerm extractEntry test/sinon/assert_test.js
+174 silly gunzTarPerm extractEntry test/sinon/collection_test.js
+175 silly gunzTarPerm extractEntry test/sinon/match_test.js
+176 silly gunzTarPerm extractEntry test/sinon/mock_test.js
+177 silly gunzTarPerm extractEntry test/sinon/call_test.js
+178 silly gunzTarPerm extractEntry test/sinon/spy_test.js
+179 silly gunzTarPerm extractEntry test/sinon/stub_test.js
+180 silly gunzTarPerm extractEntry test/sinon/test_case_test.js
+181 silly gunzTarPerm extractEntry test/sinon/test_test.js
+182 silly gunzTarPerm extractEntry test/sinon/sandbox_test.js
+183 silly gunzTarPerm extractEntry test/sinon/util/event_test.js
+184 silly gunzTarPerm extractEntry test/sinon/util/fake_server_test.js
+185 silly gunzTarPerm extractEntry test/sinon/util/fake_server_with_clock_test.js
+186 silly gunzTarPerm extractEntry test/sinon/util/fake_timers_test.js
+187 silly gunzTarPerm extractEntry test/sinon/util/fake_xml_http_request_test.js
+188 silly gunzTarPerm extractEntry test/sinon-dist.html
+189 silly gunzTarPerm extractEntry test/sinon.html
+190 verbose read json /Users/matt/.npm/sinon/1.7.3/package/package.json
+191 silly lockFile 12bab2a8-ers-matt-npm-sinon-1-7-3-package /Users/matt/.npm/sinon/1.7.3/package
+192 silly shasum updated bytes 40960
+193 silly shasum updated bytes 40960
+194 silly shasum updated bytes 40960
+195 silly shasum updated bytes 40960
+196 silly shasum updated bytes 40960
+197 silly shasum updated bytes 40960
+198 silly shasum updated bytes 40960
+199 silly shasum updated bytes 2273
+200 info shasum e9394447b773e3c0b847ce53180e158784241561
+200 info shasum /Users/matt/.npm/sinon/1.7.3/package.tgz
+201 verbose from cache /Users/matt/.npm/sinon/1.7.3/package/package.json
+202 verbose chmod /Users/matt/.npm/sinon/1.7.3/package.tgz 644
+203 verbose chown /Users/matt/.npm/sinon/1.7.3/package.tgz [ 501, 20 ]
+204 silly lockFile 3a52ce78- .
+205 silly publish { name: 'sinon',
+205 silly publish   description: 'JavaScript test spies, stubs and mocks.',
+205 silly publish   version: '1.7.3',
+205 silly publish   homepage: 'http://cjohansen.no/sinon/',
+205 silly publish   author: { name: 'Christian Johansen' },
+205 silly publish   repository: { type: 'git', url: 'http://github.com/cjohansen/Sinon.JS.git' },
+205 silly publish   bugs:
+205 silly publish    { mail: 'christian@cjohansen.no',
+205 silly publish      url: 'http://github.com/cjohansen/Sinon.JS/issues' },
+205 silly publish   licenses:
+205 silly publish    [ { type: 'BSD',
+205 silly publish        url: 'http://github.com/cjohansen/Sinon.JS/blob/master/LICENSE' } ],
+205 silly publish   scripts: { test: 'node test/node/run.js', prepublish: './build' },
+205 silly publish   dependencies: { 'buster-format': '~0.5' },
+205 silly publish   devDependencies:
+205 silly publish    { 'buster-core': '>=0.6.4',
+205 silly publish      'buster-assertions': '~0.10',
+205 silly publish      'buster-evented-logger': '~0.4',
+205 silly publish      'buster-test': '~0.5',
+205 silly publish      'http-server': '*' },
+205 silly publish   main: './lib/sinon.js',
+205 silly publish   engines: { node: '>=0.1.103' },
+205 silly publish   readme: '# Sinon.JS\n\n[![Build status](https://secure.travis-ci.org/cjohansen/Sinon.JS.png?branch=master)](http://travis-ci.org/cjohansen/Sinon.JS)\n\nStandalone and test framework agnostic JavaScript test spies, stubs and mocks.\n\n## Installation\n\nvia [npm (node package manager)](http://github.com/isaacs/npm)\n\n    $ npm install sinon\n\nor install via git by cloning the repository and including sinon.js\nin your project, as you would any other third party library.\n\nDon\'t forget to include the parts of Sinon.JS that you want to use as well\n(i.e. spy.js).\n\n## Usage\n\nSee the [sinon project homepage](http://sinonjs.org/)\n\n## Goals\n\n* No global pollution\n* Easy to use\n* Require minimal “integration”\n* Easy to embed seamlessly with any testing framework\n* Easily fake any interface\n* Ship with ready-to-use fakes for XMLHttpRequest, timers and more\n\n## Contribute?\n\nPick [an issue](http://github.com/cjohansen/Sinon.JS/issues) to fix, or pitch\nnew features. To avoid wasting your time, please ask for feedback on feature\nsuggestions either with [an issue](http://github.com/cjohansen/Sinon.JS/issues/new)\nor on [the mailing list](http://groups.google.com/group/sinonjs).\n\n## Run the tests\n\nThe Sinon.JS developer environment requires Node/NPM. Please make sure you have\nNode installed, and install Sinon\'s dependencies:\n\n    $ npm install\n\n### On Node\n\n    $ npm test\n\n### In the browser\n\nOpen `test/sinon.html` in a browser. To test against a built distribution, first\nmake sure you have a build (requires Ruby and Juicer):\n\n    $ ./build\n\nThen open `test/sinon-dist.html` in a browser.\n\nIf the build script is unable to find Juicer, try\n\n    $ ruby -rubygems build\n\nSome tests needs working XHR to pass. To run the tests over an HTTP server, run\n\n    $ node_modules/http-server/bin/http-server\n\nThen open [localhost:8080/test/sinon.html](http://localhost:8080/test/sinon.html)\nin a browser.\n\n### On Rhino\n\nThe Rhino tests are currently out of commission (pending update after switch to\nBuster.JS for tests).\n',
+205 silly publish   readmeFilename: 'README.md',
+205 silly publish   _id: 'sinon@1.7.3',
+205 silly publish   dist: { shasum: 'e9394447b773e3c0b847ce53180e158784241561' } }
+206 error need auth auth and email required for publishing
+206 error need auth You need to authorize this machine using `npm adduser`
+207 error System Darwin 12.4.0
+208 error command "/usr/local/Cellar/node/0.8.14/bin/node" "/usr/local/bin/npm" "publish"
+209 error cwd /Users/matt/src/marionette-table-example/vendor/components/sinon
+210 error node -v v0.8.14
+211 error npm -v 1.1.65
+212 error code ENEEDAUTH
+213 verbose exit [ 1, true ]

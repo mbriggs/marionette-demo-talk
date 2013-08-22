@@ -1,18 +1,35 @@
-
 module.exports = function(config) {
   config.set({
     basePath: '',
     frameworks: ['mocha'],
     files: [
+      // libs
       "vendor/components/simple-require/simple-require.js",
       "vendor/components/jquery/jquery.js",
       "vendor/components/underscore/underscore.js",
       "vendor/components/backbone/backbone.js",
       "vendor/components/backbone.stickit/backbone.stickit.js",
       "vendor/components/marionette/lib/backbone.marionette.js",
+      "vendor/components/backbone.class/backbone-class.js",
+      "vendor/components/handlebars/handlebars.js",
 
+      // testing
+      "vendor/components/chai/chai.js",
+      "vendor/components/chai-jquery/chai-jquery.js",
+      "vendor/components/sinon/pkg/sinon-1.7.3.js",
+      "vendor/components/sinon-chai/lib/sinon-chai.js",
+      'spec/test.js',
+
+
+      // implementation
+      'app/assets/javascripts/jst-renderer.js',
+      'app/assets/javascripts/marionette.config.js',
       'app/assets/javascripts/templates/**/*.jst.hbs',
-      'app/assets/javascripts/table/**/*.js'
+      'app/assets/javascripts/table/**/*.js',
+
+
+      // specs
+      'spec/javascript/**/*.js'
     ],
 
     exclude: [

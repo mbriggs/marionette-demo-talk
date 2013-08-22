@@ -8,6 +8,7 @@ define("table/orders", function(module) {
 
   var Orders = Marionette.CompositeView.extend({
     tagName: 'table',
+    className: 'table table-striped',
     itemView: Order,
     emptyView: NoOrders,
     itemViewContainer: 'tbody',

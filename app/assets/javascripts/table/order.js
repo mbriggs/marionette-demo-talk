@@ -11,7 +11,7 @@ define("table/order", function(module) {
 
     editBindings: {
       '.order-userName select': {
-        observe: 'user',
+        observe: 'user_id',
         collection: 'users',
         labelPath: 'name',
         valuePath: 'id'
@@ -23,8 +23,8 @@ define("table/order", function(module) {
 
     readOnlyBindings: {
       '.order-userName .value': {
-        observe: 'user',
-        onGet: function(user){ return user.name }
+        observe: 'user_id',
+        onGet: function(userId){ return this.users.get(userId).get('name') }
       },
 
       '.order-total .value': 'total',

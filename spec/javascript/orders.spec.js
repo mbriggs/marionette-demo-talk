@@ -1,5 +1,5 @@
 describe("Orders Table", function() {
-  var Orders =  require('table/orders');
+  var Orders = require('table/orders');
   var Collection = Backbone.Collection;
 
   describe("with an empty collection", function() {
@@ -18,14 +18,16 @@ describe("Orders Table", function() {
   });
 
   describe("with orders", function() {
-    var table, collection;
+    var table, orders, users;
 
     beforeEach(function() {
-      collection = new Collection([
-        {user: {name: 'first'}},
-        {user: {name: 'last'}}
+      users = new Collection([
+        {id: 1, name: 'first'},
+        {id:2, name: 'last'}
       ]);
-      table = new Orders({ collection: collection });
+      orders = new Collection([{ user_id: 1 }, { user_id: 2 }]);
+
+      table = new Orders({ orders: orders, users: users });
       table.render();
     });
 

@@ -1,13 +1,15 @@
 describe("Order Row", function() {
   var Order = require('table/order');
   var Model = Backbone.Model;
+  var Collection = Backbone.Collection;
 
   describe("viewing", function() {
-    var order, model;
+    var order, model, users;
 
     beforeEach(function() {
-      model = new Model({ user: { name: 'frank' }});
-      order = new Order({ model: model });
+      users = new Collection([ {id: 1, name: 'frank' }]);
+      model = new Model({ user_id: 1 });
+      order = new Order({ model: model, users: users });
       order.render();
     });
 
@@ -18,11 +20,12 @@ describe("Order Row", function() {
   });
 
   describe("editing", function() {
-    var order, model;
+    var order, model, users;
 
     beforeEach(function() {
-      model = new Model();
-      order = new Order({ model: model });
+      users = new Collection([ {id: 1, name: 'frank' }]);
+      model = new Model({ user_id: 1 });
+      order = new Order({ model: model, users: users });
       order.render();
 
       order.edit();

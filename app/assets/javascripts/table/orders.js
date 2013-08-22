@@ -12,7 +12,14 @@ define("table/orders", function(module) {
     itemView: Order,
     emptyView: NoOrders,
     itemViewContainer: 'tbody',
-    template: 'orders'
+    template: 'orders',
+    itemViewOptions: {},
+
+    initialize: function(options){
+      this.collection = options.orders;
+      this.itemViewOptions.users = options.users;
+      this.orders = options.orders;
+    }
   });
 
   module.exports = Orders;
